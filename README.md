@@ -1,6 +1,6 @@
 # Olaaá! Sou a Stephany Lopes ❤️
 
-</div>### Atualmente estou aprendendo:
+### Atualmente estou aprendendo:
 
 * Desenvolvimento Web
   
