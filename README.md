@@ -10,9 +10,9 @@
   
 * ServiceNow
 
-    ![Portals](https://img.shields.io/badge/-ServicePortal-DC143C?style=for-the-badge&logo=servicenow&labelColor=1f004e)&nbsp;
-    ![Forms](https://img.shields.io/badge/-Forms-FFFF00?style=for-the-badge&logo=serviceno&labelColor=1f004e)&nbsp;
-    ![Notifications](https://img.shields.io/badge/-Notifications-8B008B?style=for-the-badge&logo=serviceno&labelColor=1f004e)
+    ![Portals](https://img.shields.io/badge/-Portals-DC143C?style=for-the-badge&logo=servicenow&labelColor=1f004e)&nbsp;
+    ![Forms](https://img.shields.io/badge/-Forms-FFFF00?style=for-the-badge&logo=servicenow&labelColor=1f004e)&nbsp;
+    ![Notifications](https://img.shields.io/badge/-Notifications-8B008B?style=for-the-badge&logo=servicenow&labelColor=1f004e)
     
 ### Tools:
 
