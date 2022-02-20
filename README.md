@@ -10,7 +10,7 @@
   
 * ServiceNow
 
-    ![ServicePortal](https://img.shields.io/badge/-ServicePortal-DC143C?style=for-the-badge&logo=serviceno&labelColor=1f004e)&nbsp;
+    ![Portals](https://img.shields.io/badge/-ServicePortal-DC143C?style=for-the-badge&logo=servicenow&labelColor=1f004e)&nbsp;
     ![Forms](https://img.shields.io/badge/-Forms-FFFF00?style=for-the-badge&logo=serviceno&labelColor=1f004e)&nbsp;
     ![Notifications](https://img.shields.io/badge/-Notifications-8B008B?style=for-the-badge&logo=serviceno&labelColor=1f004e)
     
@@ -19,7 +19,7 @@
    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=1f004e)&nbsp; 
    ![Git](https://img.shields.io/badge/-Git-blue?style=for-the-badge&logo=git&labelColor=1f004e)&nbsp;
    ![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&labelColor=1f004e)&nbsp;
-   ![microsoft-office](https://img.shields.io/badge/-microsoft_office-blue?style=for-the-badge&logo=microsoft-office&labelColor=1f004e)&nbsp;
+   ![Microsoft-Office](https://img.shields.io/badge/-microsoft_office-blue?style=for-the-badge&logo=microsoft-office&labelColor=1f004e)&nbsp;
 
 ### GitHub Analytics:
 
