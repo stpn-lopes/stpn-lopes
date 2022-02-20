@@ -10,9 +10,11 @@
   
 * ServiceNow
 
-    ![Portals](https://img.shields.io/badge/-Portals-DC143C?style=for-the-badge&logo=servicenow&labelColor=1f004e)&nbsp;
+    ![Portal](https://img.shields.io/badge/-Portals-DC143C?style=for-the-badge&logo=servicenow&labelColor=1f004e)&nbsp;
     ![Forms](https://img.shields.io/badge/-Forms-FFFF00?style=for-the-badge&logo=servicenow&labelColor=1f004e)&nbsp;
-    ![Notifications](https://img.shields.io/badge/-Notifications-8B008B?style=for-the-badge&logo=servicenow&labelColor=1f004e)
+    ![Notifications](https://img.shields.io/badge/-Notifications-8B008B?style=for-the-badge&logo=servicenow&labelColor=1f004e)&nbsp;
+    ![Application](https://img.shields.io/badge/-Applications-3CB371?style=for-the-badge&logo=servicenow&labelColor=1f004e)&nbsp;
+    ![Virtual Agent](https://img.shields.io/badge/-Virtual_Agent-D2691E?style=for-the-badge&labelColor=1f004e)
     
 ### Tools:
 
@@ -29,6 +31,9 @@
 </p>
 
 ##
-  <a href = "mailto:stpn.lopes@gmail.com"><img src="https://img.shields.io/badge/-stpn.lopes@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/steph-sls"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:stpn.lopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%DC143C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  &nbsp;
+  <a href = "https://www.linkedin.com/in/steph-sls"><img src="https://img.shields.io/badge/-LinkedIn-%DC143C?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  &nbsp;
+  <a href = "https://codepen.io/SlowStny"><img src="https://img.shields.io/badge/-CodePen-%DC143C?style=for-the-badge&logo=CodePen&logoColor=white" target="_blank"></a> 
  
