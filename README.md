@@ -1,7 +1,6 @@
-# Olaaá! Sou a Stephany Lopes ❤️
-<br>
+<h1 align="center" > Olaaá! Sou a Stephany Lopes ❤️ </h1>
 
-## 📚 Atualmente estou estudando:
+### 📚 Atualmente estou estudando:
 
 - Desenvolvimento Web
   
@@ -16,23 +15,25 @@
     ![Notifications](https://img.shields.io/badge/-Notifications-8B008B?style=for-the-badge&logo=servicenow&labelColor=1f004e)&nbsp;
     ![Application](https://img.shields.io/badge/-Applications-3CB371?style=for-the-badge&logo=servicenow&labelColor=1f004e)&nbsp;
     ![Virtual Agent](https://img.shields.io/badge/-Virtual_Agent-D2691E?style=for-the-badge&labelColor=1f004e) <br>
+  
+##  
     
-    
-## ⚙️ Ferramentas:
+### ⚙️ Ferramentas:
 
    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=for-the-badge&logoColor=yellow&logo=visual-studio-code&labelColor=black)&nbsp; 
    ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logoColor=yellow&logo=git&labelColor=black)&nbsp;
    ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logoColor=yellow&logo=github&labelColor=black)&nbsp;
    ![Microsoft-Office](https://img.shields.io/badge/-microsoft_office-black?style=for-the-badge&logo=microsoft-office&logoColor=yellow&labelColor=black)&nbsp; <br>
+  ##
 
-##  📈 Análises do GitHub:
+###  📈 Análises do GitHub:
 
 <p align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=stpn-lopes&title_color=FFFF00&icon_color=FFFF00&text_color=00BFFF&bg_color=191970&border_color=whitec&show_icons=true"/> &nbsp;
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stpn-lopes&layout=compact&title_color=FFFF00&icon_color=FFFF00&text_color=00BFFF&bg_color=191970&show_icons=true"/>
 </p><br>
 
-##
+  ##
 
 <div align="center">
   <a href = "mailto:stpn.lopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&labelColor=black&logo=gmail&logoColor=yellow" target="_blank"></a>
