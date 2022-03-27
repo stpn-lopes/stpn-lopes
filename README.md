@@ -10,6 +10,7 @@
 </span>
  <div align="center"><img src="https://user-images.githubusercontent.com/91392505/160226203-ca518366-0ff5-42ee-ab7a-2ab0f501a6c7.png"/></div>
  <div align="center">
+  <h3>Atualmente tenho dedicado meus estudos em:</h3>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="5%"/> &nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="5%"/> &nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="5%"/> &nbsp;
