@@ -1,4 +1,5 @@
 <h1 align="center" > Ooie, me chamo Stephany Lopes ❤️ </h1>
+
 <span display="inline-block">
   <ul> 
     <li align="left">Tenho 19 anos, sou poetiza, apaixonada por livros e cachorros 🐕 </li>
@@ -8,7 +9,9 @@
     <li align="left">Em meu tempo livre, gosto de estar em contato com a natureza, desenhar, fotografar momentos e buscar aprender algo novo 🌱 </li>  
   </ul>
 </span>
+
  <div align="center"><img src="https://user-images.githubusercontent.com/91392505/160226203-ca518366-0ff5-42ee-ab7a-2ab0f501a6c7.png" width="40%"/></div>
+ 
  <div align="center">
 
   <h3>Atualmente tenho dedicado meus estudos em:</h3>
