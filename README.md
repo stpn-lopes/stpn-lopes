@@ -1,5 +1,8 @@
 <h1 align="center" > Ooie, me chamo Stephany Lopes ❤️ </h1>
-<span display="inline-block">
+
+<img src="https://user-images.githubusercontent.com/91392505/160226203-ca518366-0ff5-42ee-ab7a-2ab0f501a6c7.png"  align="right" width="40%"/>
+  
+  <br>
   <ul> 
     <li align="left">Tenho 19 anos, sou poetiza, apaixonada por livros e cachorros 🐕 </li>
     <li align="left">Estou graduando tecnólogo em Análise e Desenvolvimento de Sistemas (1° semestre) pela UAM 📚 </li>
@@ -7,9 +10,9 @@
     <li align="left">Sou formada em Técnico em Administração pelo CPS, concluído em 2019 🎓</li>
     <li align="left">Em meu tempo livre, gosto de estar em contato com a natureza, desenhar, fotografar momentos e buscar aprender algo novo 🌱 </li>  
   </ul>
-</span>
- <div align="center"><img src="https://user-images.githubusercontent.com/91392505/160226203-ca518366-0ff5-42ee-ab7a-2ab0f501a6c7.png"/></div>
+  
  <div align="center">
+  
   <h3>Atualmente tenho dedicado meus estudos em:</h3>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="5%"/> &nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="5%"/> &nbsp;
@@ -19,8 +22,10 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="5%"/> &nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="5%"/> &nbsp;
    <i class="devicon-github-original-wordmark"></i> &nbsp; 
-<br>   
-    <h3>Tenho interesse em aprender:</h3>
+  
+<br>
+  
+<h3>Tenho interesse em aprender:</h3>
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="5%"/> &nbsp; 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="5%"/> &nbsp;
@@ -32,6 +37,8 @@
                     
              
 </div>
+
+<br> <br>
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=stpn-lopes&title_color=FFFF00&icon_color=FFFF00&text_color=00BFFF&bg_color=191970&border_color=whitec&show_icons=true"/> &nbsp;
