@@ -2,9 +2,8 @@
 
 <span display="inline-block">
   <ul> 
-    <li align="left">Tenho 19 anos, sou poetiza, apaixonada por livros e cachorros 🐕 </li>
-    <li align="left">Estou graduando tecnólogo em Análise e Desenvolvimento de Sistemas (3° semestre) pela UAM 📚 </li>
-    <li align="left">Estou a cursar o 3° módulo do Curso Profissionalizante de Inglês e Informática pelo Instituto Enjoy 🖥️ </li>
+    <li align="left">Tenho 21 anos, sou poetiza, apaixonada por livros e cachorros 🐕 </li>
+    <li align="left">Estou graduando tecnólogo em Análise e Desenvolvimento de Sistemas (5° semestre) pela UAM 📚 </li>
     <li align="left">Sou formada em Técnico em Administração pelo CPS, concluído em 2019 🎓</li>
     <li align="left">Em meu tempo livre, gosto de estar em contato com a natureza, desenhar, fotografar momentos e buscar aprender algo novo 🌱 </li>  
   </ul>
