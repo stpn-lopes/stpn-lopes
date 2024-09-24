@@ -3,8 +3,8 @@
 <span display="inline-block">
   <ul> 
     <li align="left">Tenho 21 anos, sou poetiza, apaixonada por livros e cachorros 🐕 </li>
-    <li align="left">Estou graduando tecnólogo em Análise e Desenvolvimento de Sistemas (5° semestre) pela UAM 📚 </li>
-    <li align="left">Sou formada em Técnico em Administração pelo CPS, concluído em 2019 🎓</li>
+    <li align="left">Graduada em tecnólogo em Análise e Desenvolvimento de Sistemas pela UAM, concluído em 2024 📚 </li>
+    <li align="left">Formada em Técnico em Administração pelo CPS, concluído em 2019 🎓</li>
     <li align="left">Em meu tempo livre, gosto de estar em contato com a natureza, desenhar, fotografar momentos e buscar aprender algo novo 🌱 </li>  
   </ul>
 </span>
